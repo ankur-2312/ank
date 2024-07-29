@@ -5,6 +5,7 @@ class Test {
     fun one(){
 
         val a = 3+3
+
     }
 
     fun two(){
