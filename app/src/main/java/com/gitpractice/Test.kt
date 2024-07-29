@@ -7,6 +7,7 @@ class Test {
     }
 
     fun two(){
+
         val b = 2+2
     }
 }
