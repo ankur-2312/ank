@@ -4,7 +4,7 @@ class Test {
 
     fun one(){
 
-        val a = 3+3
+        val a = 3+4
     }
 
     fun two(){
