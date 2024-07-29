@@ -3,7 +3,7 @@ package com.gitpractice
 class Test {
 
     fun one(){
-        val a = 3+3
+        val a = 3+5
     }
 
     fun two(){
